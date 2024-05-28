@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @VohraXpertCoder
-- 👀 I’m interested in frontenddevalpement
-- 🌱 I’m currently learning se
+- 👋 Hi, 
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at erkomalvohra@gmail.com/9996894943
 
