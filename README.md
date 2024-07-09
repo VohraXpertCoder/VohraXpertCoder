@@ -1,5 +1,5 @@
-- 👋 Hi, 
-- 💞️ I’m looking to collaborate on ...
+- 👋 XpertCoder, 
+- 💞️ Love to work on React, Redux, Javascript, complex probelms and javascript quiz
 - 📫 You can reach me at erkomalvohra@gmail.com/9996894943
 
 <!---
